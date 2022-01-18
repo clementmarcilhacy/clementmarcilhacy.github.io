@@ -1,0 +1,89 @@
+{
+  "Header": {
+    "title": "Brûleurs à éthanol sécurisés",
+    "paragraph": "Pour redonner vie à votre salon, rien de mieux que la chaleur d'une vraie flamme"
+  },
+  "About": {
+    "paragraph": "Les brûleurs Sparxs sont disponibles sous différentes formes:    ",
+    "Why": [
+      "Fourni avec un habillage SPARXS pour intégration immédiate dans une cheminée existante",
+      "Fourni dans une cheminée complète d'une de nos sociétés partenaires",
+      "Intégré dans un projet de décoration intérieure par un architecte, décorateur ou entrepreneur"
+    ],
+    "Why2": []
+  },
+  "Gallery": [
+    {
+      "title": "Acheter",
+      "largeImage": "img/gallery/cheminee bruleur ethanol Archi1.jpg",
+      "smallImage": "img/gallery/cheminee bruleur ethanol Archi1.jpg"
+    },
+    {
+      "title": "Acheter",
+      "largeImage": "img/gallery/cheminee bruleur ethanol CRR.jpg",
+      "smallImage": "img/gallery/cheminee bruleur ethanol CRR.jpg"
+    },
+    {
+      "title": "Acheter",
+      "largeImage": "img/gallery/cheminee bruleur ethanol WTN.jpg",
+      "smallImage": "img/gallery/cheminee bruleur ethanol WTN.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-fire",
+      "name": "Anti flash",
+      "text": "Les blocs de combustion au bio éthanol SPARXS sont équipés de détecteurs de température et de systèmes de verrouillage gérés par un microcontroleur électronique."
+    },
+    {
+      "icon": "fa fa-magic",
+      "name": "Qualité de la combustion",
+      "text": "Le système à injection Sparxs permet d'avoir des flammes plus hautes et plus belles puisque la base des flammes reste au niveau haut pendant toute la flambée.."
+    },
+    {
+      "icon": "fa fa-archive",
+      "name": "Résevoir amovible",
+      "text": "Si l'on doit transvaser directement l'éthanol dans le bloc de combustion*, en cas de débordement (fréquent) il est difficile d'essuyer totalement ce qui a débordé et de vérifier qu'il ne reste pas d'éthanol en dehors du foyer."
+    },
+    {
+      "icon": "fa fa-user-times",
+      "name": "Contrôle parental",
+      "text": "Les brûleurs Sparxs sont équipés de boîtiers support de piles amovibles spécifiques. Une fois ce support retiré un simple clic, il est impossible à une autre personne de placer des piles directement dans l'appareil pour le faire fonctionner.."
+    },
+    {
+      "icon": "fa fa-recycle",
+      "name": "Détection de CO2",
+      "text": "Le brûleur Sparxs répond à ces deux exigences: qualité de combustion naturelle excellente en milieu normalement oxygéné et arrêt automatique en cas de raréfaction de l'oxygène dans l'air."
+    },
+    {
+      "icon": "fa fa-flag-o",
+      "name": "Conception et qualité",
+      "text": "Les produits SPARXS sont entièrement conçus et fabriqués en France."
+    }
+  ],
+  "Contact": {
+    "address": "15 rue Gudin, 75016 Paris ",
+    "phone": "+34 (0)9 81 74 74 74",
+    "email": "contact@sparxs.fr",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "",
+      "title": "Modèle standard",
+      "text": "Le bloc de combustion TOPDEC pour cheminée bio éthanol est le best-seller de la gamme SPARXS."
+    },
+    {
+      "icon": "",
+      "title": "Modèle XL",
+      "text": "Sparxs annonce le lancement de son bloc de combustion Topdec \"XL\""
+    },
+    {
+      "icon": "",
+      "title": "Modèle XXL",
+      "text": "Après le succès du modèle Topdec \"XL\", la gamme s'étoffe avec le bloc de combustion Topdec \"XXL\""
+    }
+  ]
+}
